@@ -28,8 +28,8 @@
     <string name="game_list_title">Library</string>
     <string name="game_remove_message">Are you sure you want to remove %1$s from your library ?</string>
     <string name="app_search_title">Search</string>
-    <string name="three_screenshot_disabled_summary">Temporary disable three-fingers-swipe gesture while in-game</string>
-    <string name="three_screenshot_disabled_title">Disable three fingers swipe gesture</string>
+    <string name="three_screenshot_disabled_summary">Temporary disable three-fingers-swipe screenshot gesture while in-game</string>
+    <string name="three_screenshot_disabled_title">Disable swipe to screenshot</string>
     <string name="chaldea">chaldeaprjkt</string>
     <string name="state_enabled">Enabled</string>
     <string name="state_disabled">Disabled</string>
